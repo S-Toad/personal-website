@@ -4,11 +4,11 @@ baseurl = "http://alexayala.xyz/"
 theme = "minimal-academic"
 
 # Title of your site
-title = "Minimal Academic"
+title = "Alex Ayala"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; Joshua Hu 2018"
+copyright = "&copy; Alex Ayala 2018"
 
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -38,22 +38,20 @@ enableGitInfo = false
 
 [params]
   # Your details.
-  name = "Minimal Academic"
-  bio = "A minimally academic theme."
+  name = "Alex Ayala"
+  bio = "Math/Computer Science at WWU. Aspiring Data Scientist & Data Engineer."
 
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
-  location = "San Francisco"
+  location = "Bellingham, WA"
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
 
-  # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
-  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
-  #   Examples: "3:04 pm" or "15:04"
   time_format = "3:04 PM"
+
 
   # Display comment count? Requires commenting to be enabled.
   comment_count = true
@@ -67,27 +65,15 @@ enableGitInfo = false
   privacy_pack = false
 
   [[params.social]]
-    icon = "instagram"
-    icon_pack = "fa"
-    link = "//instagram.com/jhu247"
-    text = "Instagram"
-
-  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/joshua-hu-12290a43"
+    link = "//linkedin.com/in/alex-ayala-28b6826b/"
     text = "LinkedIn"
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/jhu247"
-    text = "Twitter"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/jhu247"
+    link = "//github.com/s-toad"
     text = "Github"
 
 # Taxonomies.
